@@ -98,9 +98,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true" height="180" alt="GitHub stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&layout=compact&langs_count=8&theme=radical&hide_border=false" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&layout=compact&langs_count=8&theme=dark&hide_border=false" height="180" alt="Top languages" />
 
 </div>
 
