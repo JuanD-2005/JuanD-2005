@@ -1,30 +1,41 @@
+
+<!-- 📱 Banner -->
+
 <div align="center">
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnUyODNwY3VmNnl2NG4zd2VvOTh1cjM2bGlwNGh2ejkzdTVibmJqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif"  />
+  <img src="./Banner_GITHUB.png" alt="GitHub Banner" width="100%" />
 </div>
 
 ###
 
+<!-- 📱 Redes Sociales -->
+
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo"  />
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo" />
+  </a>
   <a href="https://www.linkedin.com/in/juan-diego-paredes-g%C3%A1mez-21415338a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo" />
   </a>
   <a href="https://t.me/Jpgpar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="telegram logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=+58%20424%20783%206896&color=25D366&logoColor=white&labelColor=128C7E&style=for-the-badge" height="60" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=jdpgparedes&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=+58%20424%20783%206896&color=25D366&logoColor=white&labelColor=128C7E&style=for-the-badge" height="60" alt="whatsapp logo" />
+  <img src="https://img.shields.io/static/v1?message=jdpgparedes&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo" />
 </div>
 
 ###
 
-<br clear="both">
+<!-- 👋 Hola -->
 
-<h1 align="left">Heya I'm Juan, a FullStack Developer 😁</h1>
+
+<h1 align="center">Heya I'm Juan, a FullStack Developer 😁</h1>
 
 ###
+
+<!-- 📚 Tecnologías  -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
@@ -74,15 +85,23 @@
 
 ###
 
+<!-- 🎮 Juegos  -->
+
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JuanD-2005/JuanD-2005/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<!-- 🔥 Estadísticas GitHub  -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="230" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true" height="180" alt="GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&layout=compact&langs_count=8&theme=radical&hide_border=false" height="180" alt="Top languages" />
+
 </div>
 
 ###
