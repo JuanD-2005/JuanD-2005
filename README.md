@@ -32,7 +32,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:jdpgparedes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=FFB703" height="38" alt="jdpgparedes@gmail.com" />
+    <img src="https://img.shields.io/badge/jdpgparedes@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=FFB703" height="38" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Jpgpar" target="_blank">
