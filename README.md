@@ -14,8 +14,7 @@
 
 <h1>Juan Diego Paredes</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;High-Performance+Animations+%E2%80%94+GSAP+%2B+Three.js;Building+Immersive+Web+Experiences;Next.js+%7C+React+%7C+Vue.js;Open+to+Exciting+Opportunities" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Specialized+in+Web+Performance;Next.js+%7C+TypeScript+%7C+Node.js;Crafting+Scalable+Solutions;Available+for+new+challenges" alt="Typing SVG" />
 </div>
 
 <br>
