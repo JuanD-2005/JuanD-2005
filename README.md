@@ -180,10 +180,6 @@ El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación
   <img src="https://raw.githubusercontent.com/JuanD-2005/JuanD-2005/output/snake.svg" alt="Snake animation" width="92%" />
 </div>
 
-<br>
-
-<br><br>
-
 <!-- ═══════════════════════════════════════════════ -->
 <!--                   FOOTER                       -->
 <!-- ═══════════════════════════════════════════════ -->
