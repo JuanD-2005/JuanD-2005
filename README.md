@@ -15,6 +15,31 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Specialized+in+Web+Performance;Next.js+%7C+TypeScript+%7C+Node.js;Crafting+Scalable+Solutions;Available+for+new+challenges" alt="Typing SVG" />
 </div>
 
+<!-- ═══════════════════════════════════════════════ -->
+<!--              CTAs — CONTACTO                   -->
+<!-- ═══════════════════════════════════════════════ -->
+<div align="center">
+
+  <!-- ⭐ CTA Principal — Portafolio -->
+  <a href="https://portafolio-kappa-rouge.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/◈%20PORTAFOLIO-Ver%20Trabajo-00D4FF?style=for-the-badge&logoColor=black&labelColor=00D4FF&color=00D4FF" height="38" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juan-diego-paredes-g%C3%A1mez-21415338a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00D4FF" height="38" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jdpgparedes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=00D4FF" height="38" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Jpgpar" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=00D4FF" height="38" alt="Telegram" />
+  </a>
+
+</div>
+
+
 <br>
 
 <!-- ═══════════════════════════════════════════════ -->
@@ -41,29 +66,7 @@ El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación
 
 <br>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              CTAs — CONTACTO                   -->
-<!-- ═══════════════════════════════════════════════ -->
-<div align="center">
 
-  <!-- ⭐ CTA Principal — Portafolio -->
-  <a href="https://portafolio-kappa-rouge.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/◈%20PORTAFOLIO-Ver%20Trabajo-00D4FF?style=for-the-badge&logoColor=black&labelColor=00D4FF&color=00D4FF" height="38" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/juan-diego-paredes-g%C3%A1mez-21415338a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00D4FF" height="38" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jdpgparedes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=00D4FF" height="38" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Jpgpar" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=00D4FF" height="38" alt="Telegram" />
-  </a>
-
-</div>
 
 <br><br>
 
