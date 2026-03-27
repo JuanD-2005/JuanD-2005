@@ -64,11 +64,6 @@ El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación
 </tr>
 </table>
 
-<br>
-
-
-
-<br><br>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--             TECH STACK — GRID                  -->
