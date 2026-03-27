@@ -12,8 +12,6 @@
 <!-- ═══════════════════════════════════════════════ -->
 <div align="center">
 
-<h1>Juan Diego Paredes</h1>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Specialized+in+Web+Performance;Next.js+%7C+TypeScript+%7C+Node.js;Crafting+Scalable+Solutions;Available+for+new+challenges" alt="Typing SVG" />
 </div>
 
@@ -185,20 +183,6 @@ El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación
 </div>
 
 <br>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&title_color=00D4FF&icon_color=00D4FF&text_color=8b949e&bg_color=0d1117"
-    height="170"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=8b949e&bg_color=0d1117"
-    height="170"
-    alt="Top Languages"
-  />
-</div>
 
 <br><br>
 
