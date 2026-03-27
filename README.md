@@ -1,85 +1,226 @@
-<!-- 📱 Banner -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                BANNER                         -->
+<!-- ═══════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./Banner_GITHUB.png" alt="GitHub Banner" width="100%" />
+  <img src="./Banner_GITHUB.png" alt="Juan Diego Paredes — Full Stack Engineer" width="100%" />
 </div>
 
 <br>
 
-<!-- 👋 Hola & Pitch -->
-<h1 align="center">Heya! I'm Juan Diego Paredes 😁</h1>
-<h3 align="center">Full Stack Developer | Creando experiencias web inmersivas</h3>
-
+<!-- ═══════════════════════════════════════════════ -->
+<!--            HEADER & SUBTITLE DINÁMICO          -->
+<!-- ═══════════════════════════════════════════════ -->
 <div align="center">
-  <p>Ingeniero de Software enfocado en el desarrollo de aplicaciones robustas y animaciones de alto rendimiento.</p>
+
+<h1>Juan Diego Paredes</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;High-Performance+Animations+%E2%80%94+GSAP+%2B+Three.js;Building+Immersive+Web+Experiences;Next.js+%7C+React+%7C+Vue.js;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+
 </div>
 
 <br>
 
-<!-- 📱 Redes Sociales & Portafolio -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--               PROPUESTA DE VALOR               -->
+<!-- ═══════════════════════════════════════════════ -->
+<table align="center" width="90%">
+<tr>
+<td align="center" width="50%" valign="top">
+
+**⚡ Lo que construyo**
+
+Apps web de producción donde el rendimiento y la estética son una sola cosa. Desde arquitecturas backend robustas hasta frontends con animaciones de 60fps — vivo en ambos extremos del stack.
+
+</td>
+<td align="center" width="50%" valign="top">
+
+**🎯 Cómo pienso**
+
+El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación importan. Construyo experiencias que se sienten tan buenas como se ven.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--              CTAs — CONTACTO                   -->
+<!-- ═══════════════════════════════════════════════ -->
 <div align="center">
-  <!-- Botón Estrella: El Portafolio -->
+
+  <!-- ⭐ CTA Principal — Portafolio -->
   <a href="https://portafolio-kappa-rouge.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mi%20Portafolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="40" alt="portfolio badge" />
+    <img src="https://img.shields.io/badge/◈%20PORTAFOLIO-Ver%20Trabajo-00D4FF?style=for-the-badge&logoColor=black&labelColor=00D4FF&color=00D4FF" height="38" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/juan-diego-paredes-g%C3%A1mez-21415338a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00D4FF" height="38" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/Jpgpar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="40" alt="telegram logo" />
-  </a>
-  <!-- Enlace funcional al correo -->
+  &nbsp;&nbsp;
   <a href="mailto:jdpgparedes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contáctame&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=00D4FF" height="38" alt="Email" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Jpgpar" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=00D4FF" height="38" alt="Telegram" />
+  </a>
+
 </div>
 
 <br><br>
 
-<!-- 📚 Tecnologías Categorizadas -->
-<h3 align="center">🛠️ Tech Stack & Herramientas</h3>
+<!-- ═══════════════════════════════════════════════ -->
+<!--             TECH STACK — GRID                  -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-  <br>
-  <b>Frontend & Animaciones</b><br><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" height="25" alt="nextjs logo" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="25" alt="react logo" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=flat-square" height="25" alt="vuejs logo" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="25" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square" height="25" alt="gsap logo" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" height="25" alt="tailwind logo" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="25" alt="html5 logo" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square" height="25" alt="css logo" />
-  <br><br>
 
-  <b>Backend & Data</b><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" height="25" alt="python logo" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" height="25" alt="django logo" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" height="25" alt="express logo" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" height="25" alt="cplusplus logo" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" height="25" alt="mysql logo" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" height="25" alt="firebase logo" />
-  <br><br>
+```
+                        ◈  TECH STACK  ◈
+```
 
-  <b>Mobile, Game Dev & Diseño</b><br><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" height="25" alt="flutter logo" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=flat-square" height="25" alt="android logo" />
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=white&style=flat-square" height="25" alt="godot logo" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" height="25" alt="figma logo" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=flat-square" height="25" alt="blender logo" />
 </div>
+
+<table align="center" width="92%">
+
+<!-- ─── ROW 1: Frontend ─── -->
+<tr>
+<td align="right" width="18%">
+
+`Frontend`
+
+</td>
+<td align="left" width="82%">
+
+![Next.js](https://img.shields.io/badge/Next.js-161b22?logo=nextdotjs&logoColor=00D4FF&style=flat-square)
+![React](https://img.shields.io/badge/React-161b22?logo=react&logoColor=00D4FF&style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-161b22?logo=vuedotjs&logoColor=00D4FF&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?logo=javascript&logoColor=00D4FF&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?logo=typescript&logoColor=00D4FF&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?logo=html5&logoColor=00D4FF&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?logo=css3&logoColor=00D4FF&style=flat-square)
+
+</td>
+</tr>
+
+<!-- ─── ROW 2: Animaciones ─── -->
+<tr>
+<td align="right">
+
+`Animations`
+
+</td>
+<td align="left">
+
+![GSAP](https://img.shields.io/badge/GSAP-161b22?logo=greensock&logoColor=00D4FF&style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-161b22?logo=threedotjs&logoColor=00D4FF&style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-161b22?logo=tailwindcss&logoColor=00D4FF&style=flat-square)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-161b22?logo=framer&logoColor=00D4FF&style=flat-square)
+
+</td>
+</tr>
+
+<!-- ─── ROW 3: Backend ─── -->
+<tr>
+<td align="right">
+
+`Backend`
+
+</td>
+<td align="left">
+
+![Python](https://img.shields.io/badge/Python-161b22?logo=python&logoColor=00D4FF&style=flat-square)
+![Django](https://img.shields.io/badge/Django-161b22?logo=django&logoColor=00D4FF&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?logo=nodedotjs&logoColor=00D4FF&style=flat-square)
+![Express](https://img.shields.io/badge/Express-161b22?logo=express&logoColor=00D4FF&style=flat-square)
+![C++](https://img.shields.io/badge/C++-161b22?logo=cplusplus&logoColor=00D4FF&style=flat-square)
+
+</td>
+</tr>
+
+<!-- ─── ROW 4: Datos & Cloud ─── -->
+<tr>
+<td align="right">
+
+`Data & Cloud`
+
+</td>
+<td align="left">
+
+![MySQL](https://img.shields.io/badge/MySQL-161b22?logo=mysql&logoColor=00D4FF&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-161b22?logo=firebase&logoColor=00D4FF&style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?logo=vercel&logoColor=00D4FF&style=flat-square)
+![Git](https://img.shields.io/badge/Git-161b22?logo=git&logoColor=00D4FF&style=flat-square)
+
+</td>
+</tr>
+
+<!-- ─── ROW 5: Mobile & Otros ─── -->
+<tr>
+<td align="right">
+
+`More`
+
+</td>
+<td align="left">
+
+![Flutter](https://img.shields.io/badge/Flutter-161b22?logo=flutter&logoColor=00D4FF&style=flat-square)
+![Godot](https://img.shields.io/badge/Godot-161b22?logo=godotengine&logoColor=00D4FF&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-161b22?logo=figma&logoColor=00D4FF&style=flat-square)
+![Blender](https://img.shields.io/badge/Blender-161b22?logo=blender&logoColor=00D4FF&style=flat-square)
+
+</td>
+</tr>
+
+</table>
 
 <br><br>
 
-<!-- 🎮 Actividad & Estadísticas GitHub -->
-<h3 align="center">📊 Actividad Reciente</h3>
+<!-- ═══════════════════════════════════════════════ -->
+<!--           ACTIVIDAD — SNAKE + STATS            -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JuanD-2005/JuanD-2005/output/snake.svg" alt="Snake animation" width="100%" />
+
+```
+                      ◈  ACTIVIDAD RECIENTE  ◈
+```
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JuanD-2005/JuanD-2005/output/snake.svg" alt="Snake animation" width="92%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&layout=compact&langs_count=8&theme=dark&hide_border=false" height="180" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&title_color=00D4FF&icon_color=00D4FF&text_color=8b949e&bg_color=0d1117"
+    height="170"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=8b949e&bg_color=0d1117"
+    height="170"
+    alt="Top Languages"
+  />
+</div>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                   FOOTER                       -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanD-2005&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Crafted with intention · <a href="https://portafolio-kappa-rouge.vercel.app">portafolio-kappa-rouge.vercel.app</a></sub>
 </div>
