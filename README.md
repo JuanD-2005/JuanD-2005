@@ -43,29 +43,6 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!--               PROPUESTA DE VALOR               -->
-<!-- ═══════════════════════════════════════════════ -->
-<table align="center" width="90%">
-<tr>
-<td align="center" width="50%" valign="top">
-
-**⚡ Lo que construyo**
-
-Apps web de producción donde el rendimiento y la estética son una sola cosa. Desde arquitecturas backend robustas hasta frontends con animaciones de 60fps — vivo en ambos extremos del stack.
-
-</td>
-<td align="center" width="50%" valign="top">
-
-**🎯 Cómo pienso**
-
-El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación importan. Construyo experiencias que se sienten tan buenas como se ven.
-
-</td>
-</tr>
-</table>
-
-
-<!-- ═══════════════════════════════════════════════ -->
 <!--             TECH STACK — GRID                  -->
 <!-- ═══════════════════════════════════════════════ -->
 
