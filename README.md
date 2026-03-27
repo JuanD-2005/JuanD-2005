@@ -74,11 +74,7 @@ El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación
 <!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-
-```
-                        ◈  TECH STACK  ◈
-```
-
+  <h2>◈ TECH STACK ◈</h2>
 </div>
 
 <table align="center" width="92%">
@@ -181,11 +177,7 @@ El rendimiento *es* diseño. Cada milisegundo de TTFB y cada frame de animación
 <!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-
-```
-                      ◈  ACTIVIDAD RECIENTE  ◈
-```
-
+  <h2>◈ ACTIVIDAD RECIENTE ◈</h2>
 </div>
 
 <div align="center">
