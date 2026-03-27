@@ -161,21 +161,7 @@
 
 <br>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JuanD-2005&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&title_color=FFB703&icon_color=FFB703&text_color=8b949e&bg_color=0d1117"
-    height="170"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanD-2005&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=FFB703&text_color=8b949e&bg_color=0d1117"
-    height="170"
-    alt="Top Languages"
-  />
-</div>
-
-<br><br>
+<br>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                   FOOTER                       -->
