@@ -32,7 +32,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:jdpgparedes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=FFB703" height="38" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=FFB703" height="38" alt="jdpgparedes@gmail.com" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Jpgpar" target="_blank">
@@ -103,6 +103,8 @@
 ![Express](https://img.shields.io/badge/Express-161b22?logo=express&logoColor=FFB703&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-161b22?logo=python&logoColor=FFB703&style=flat-square)
 ![Django](https://img.shields.io/badge/Django-161b22?logo=django&logoColor=FFB703&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-161b22?logo=php&logoColor=FFB703&style=flat-square)
+![Java](https://img.shields.io/badge/Java-161b22?logo=java&logoColor=FFB703&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-161b22?logo=cplusplus&logoColor=FFB703&style=flat-square)
 
 </td>
@@ -117,6 +119,7 @@
 </td>
 <td align="left">
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?logo=postgresql&logoColor=FFB703&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-161b22?logo=mysql&logoColor=FFB703&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-161b22?logo=firebase&logoColor=FFB703&style=flat-square)
 ![Resend](https://img.shields.io/badge/Resend-161b22?logo=resend&logoColor=FFB703&style=flat-square)
@@ -130,14 +133,17 @@
 <tr>
 <td align="right">
 
-`More`
+`Mobile & More`
 
 </td>
 <td align="left">
 
 ![Flutter](https://img.shields.io/badge/Flutter-161b22?logo=flutter&logoColor=FFB703&style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-161b22?logo=kotlin&logoColor=FFB703&style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-161b22?logo=androidstudio&logoColor=FFB703&style=flat-square)
 ![Godot](https://img.shields.io/badge/Godot-161b22?logo=godotengine&logoColor=FFB703&style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-161b22?logo=figma&logoColor=FFB703&style=flat-square)
+![Photoshop](https://img.shields.io/badge/Photoshop-161b22?logo=adobephotoshop&logoColor=FFB703&style=flat-square)
 ![Blender](https://img.shields.io/badge/Blender-161b22?logo=blender&logoColor=FFB703&style=flat-square)
 
 </td>
